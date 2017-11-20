@@ -53,4 +53,22 @@
   url: https://medium.com/p/1085273f1a73
   domain: medium.com
   image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15fb6381c60:1580d56:626ab4cd
+  item_date: "2017-11-13 08:30:27"
+  title: 36 companies agree to a Kubernetes certification standard
+  url: http://techcrunch.com/?p=1566572
+  domain: techcrunch.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15fb67ccba7:2d29075:3c0bb656
+  item_date: "2017-11-13 09:45:33"
+  title: CNCF Ensures Kubernetes Interoperability with a New Cert Program
+  url: https://thenewstack.io/?p=3474252
+  domain: thenewstack.io
+  image: ""
+- curated_id: b4xX282kQ9FAxkxcTTl6litd4bsIad1WXC3AOIleGAM=_15fbb632cfd:3549b92:7157a206
+  item_date: "2017-11-14 08:21:02"
+  title: 'Kubernetes and OpenShift: Community, Standards and Certifications'
+  url: https://blog.openshift.com/?p=14688
+  domain: blog.openshift.com
+  image: ""
 ...
