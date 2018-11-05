@@ -107,4 +107,16 @@
   url: https://databricks.com/?p=30432
   domain: databricks.com
   image: ""
+- curated_id: IQOZI3BDLIkJP5DDw7kwxbCWAc7Elam/7sSBACr4NjU=_165bc556709:e51281:6f86c10b
+  item_date: "2018-09-08 20:13:58"
+  title: First
+  url: https://www.confluent.io/?p=4512
+  domain: www.confluent.io
+  image: ""
+- curated_id: 0VTnUfX894TcY5TA/oMFDbEY1bDrlajzsn67Jr80r8M=_1664e9e6c5a:1bcf08:20735c59
+  item_date: "2018-10-07 06:00:21"
+  title: Learn how to get Salesforce
+  url: https://thenextweb.com/?p=1156543
+  domain: thenextweb.com
+  image: ""
 ...
